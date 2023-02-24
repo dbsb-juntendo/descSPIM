@@ -2,7 +2,9 @@
 
 descSPIM : user-affordable and versatile light-sheet microscopy system for cleared specimens
 
-<img width="242" alt="230223_3dcadfig" src="https://user-images.githubusercontent.com/98086219/221193005-6da05d67-0a55-47ce-ab09-3258089e97b0.png">
+![230224_descspim3dcadfig_large1](https://user-images.githubusercontent.com/98086219/221194888-fa7333f9-b8ee-45b3-a0b0-31e4db79793d.jpg)
+
+
 
 We devised descSPIM  (user-affordable and versatile light-sheet microscopy system for cleared specimens) 
 for researchers who have started to use tissue clearing and are having trouble findng a detection system.
