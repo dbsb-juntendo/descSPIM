@@ -1,6 +1,6 @@
 # descSPIM
 
-User-affordable and versatile light-sheet microscopy system for cleared specimens
+descSPIM : user-affordable and versatile light-sheet microscopy system for cleared specimens
 
 <img width="242" alt="230223_3dcadfig" src="https://user-images.githubusercontent.com/98086219/221193005-6da05d67-0a55-47ce-ab09-3258089e97b0.png">
 
