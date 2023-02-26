@@ -10,6 +10,7 @@ The main features of the current descSPIM setup are:
 
  ● Compatibility with many major clearing technologies, including **[CUBIC](https://www.tcichemicals.com/JP/en/search/?text=CUBIC)**  (Susaki et al., Cell
 2014)
+
  ● The build can be completed in **a few hours to half a day**. 
 
  ● It does **not** require a high level of expertise. 
