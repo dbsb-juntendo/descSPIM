@@ -21,7 +21,7 @@ For researchers interested in using SPIM (selective plane illumination microscop
 
 ・Primary means of imaging transparency samples with SPIM
 
-・Visualization of cell populations or other structures (blood vessels, plaques) and sub-cellular structures (e.g. cell nuclei) in giant tissues (e.g. mouse half-brain)
+・Visualization of cell populations or other structures (e.g. blood vessels, plaques) and sub-cellular structures (e.g. cell nuclei) in giant tissues (e.g. mouse half-brain)
 
 # Concept
 
