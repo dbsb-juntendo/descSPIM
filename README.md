@@ -20,6 +20,7 @@ For researchers interested in using SPIM (selective plane illumination microscop
 # What are ideal imaging applications for a descSPIM?
 
 ・Primary means of imaging transparency samples with SPIM
+
 ・Visualization of cell populations or other structures (blood vessels, plaques) and sub-cellular structures (e.g. cell nuclei) in giant tissues (e.g. mouse half-brain)
 
 # Concept
