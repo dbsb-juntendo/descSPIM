@@ -6,13 +6,14 @@ The descSPIM project aims to build an open-source microscopy platform that can b
 
 This is the image after construction. 
 
+***
+
 The main features of the current descSPIM setup are:
 
- ● Compatibility with many major clearing technologies, including **[CUBIC](https://www.tcichemicals.com/JP/en/search/?text=CUBIC)**  (Susaki et al., Cell
-2014)
-
+ ● Compatibility with many major clearing technologies, including **[CUBIC](https://www.tcichemicals.com/JP/en/search/?text=CUBIC)**  (Susaki et al., Cell 2014)
+ 
  ● The build can be completed in **a few hours to half a day**. 
-
+ 
  ● It does **not** require a high level of expertise. 
 
  ● All parts are commercially available (mostly from Thorlabs).
@@ -20,5 +21,7 @@ The main features of the current descSPIM setup are:
  ● **[Parts list.md](https://github.com/dbsb-juntendo/descSPIM/blob/main/Parts%20list.md)** lists all required parts.
  
  ● Nearly isotropic sampling (X, Y, and Z) with axially swept light sheets for uniform Z resolution across the entire field of view
+ 
+ ___
 
 Inspired by the [openSPIM](https://openspim.org/), [openSPIN](https://sites.google.com/site/openspinmicroscopy/?pli=1&authuser=1) projects, the [mesoSPIM](https://github.com/mesoSPIM) and [mesoSPIM projects](https://mesospim.org/), the documentation for building and extending your own descSPIM is available here.
