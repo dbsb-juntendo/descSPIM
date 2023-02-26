@@ -17,5 +17,7 @@ The main features of the current descSPIM setup are:
  ● All parts are commercially available (mostly from Thorlabs).
 
  ● **[Parts list.md](https://github.com/dbsb-juntendo/descSPIM/blob/main/Parts%20list.md)** lists all required parts.
+ 
+ ● Nearly isotropic sampling (X, Y, and Z) with axially swept light sheets for uniform Z resolution across the entire field of view
 
 Inspired by the [openSPIM](https://openspim.org/), [openSPIN](https://sites.google.com/site/openspinmicroscopy/?pli=1&authuser=1) projects, the [mesoSPIM](https://github.com/mesoSPIM) and [mesoSPIM projects](https://mesospim.org/), the documentation for building and extending your own descSPIM is available here.
