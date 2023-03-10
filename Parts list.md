@@ -5,3 +5,5 @@
 Below is a list of parts needed to build descSPIM.
 The completed image is shown in **[descSPIM-hardware-documentation.md.](https://github.com/dbsb-juntendo/descSPIM/blob/main/descSPIM-hardware-documentation.md)**
 The 3D CAD of the finished drawing is in **[README.md.](https://github.com/dbsb-juntendo/descSPIM/blob/main/README.md)**
+
+[230311_descSPIM_part_list_price_230125_Eng.pdf](https://github.com/dbsb-juntendo/descSPIM/files/10943904/230311_descSPIM_part_list_price_230125_Eng.pdf)
