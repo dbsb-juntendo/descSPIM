@@ -30,4 +30,6 @@ Since commercially available systems take a huge cost to purchase, and recent op
 require high-level expertise in optical system construction, most biologists find it difficult to utilize. 
 We have therefore developed deskside-equipped SPIM for cleared specimens (descSPIM) as an affordable system which does not require the expertise to construct.
 
-<img width="151" alt="230223_githubfig1" src="https://user-images.githubusercontent.com/98086219/221190284-6861a2a3-9ce7-4650-9dfc-7ffe5a763123.png">
+![230211_concept_fig_middlesize](https://user-images.githubusercontent.com/98086219/224371460-4d456602-3cd6-4755-9d18-f7ff0003d094.png)
+
+
