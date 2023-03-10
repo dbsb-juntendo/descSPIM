@@ -14,7 +14,7 @@ The **descSPIM** is a light sheet microscope that does not require advanced opti
 
 ・Replace the actuator of a single-axis stage (XR25P/M) with a motorized one (Z825B)
 
-![230311_howtoconsruct_図3_small](https://user-images.githubusercontent.com/98086219/224383854-f5c7153f-6edd-411a-a9af-3f33e6ada67a.png)
+![230311_howtoconsruct_図3改_small](https://user-images.githubusercontent.com/98086219/224384278-c30b57ff-2e82-4a9f-9ad8-a09bf7bcfa99.png)
 
 ・Removable holder for fluorescent filter　(SM1QT)
 
