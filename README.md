@@ -1,10 +1,8 @@
-# descSPIM
+# descSPIM : affordable but versatile light-sheet microscopy system for tissue clearing end users
 
 ![230224_descspim3dcadfig_middleshort](https://user-images.githubusercontent.com/98086219/221199072-4f42f023-e379-449a-8d14-b5d9aa063339.png)
 
 ## What is descSPIM?
-
-**descSPIM** : affordable but versatile light-sheet microscopy system for tissue clearing end users
 
 descSPIM is a lightsheet microscopy system that we designed to meet the unmet needs of researchers who are using tissue clearing techniques. The system offers a low-cost and easy-to-use solution for 3D imaging of cleared tissue samples that requires little expertise and cost. Most optical components are readily available from a single vendor and can be readily assembled using the instructions provided. These minimal optical parts are arranged on a small optical breadboard. In contrast to existing lightsheet systems, descSPIM is intended to be simple to install, build, and operate, even for end users with no prior experience in optics. descSPIM is also highly expandable and can be customized to suit a variety of applications, making it a versatile tool for a wide range of research projects. With descSPIM, researchers can easily achieve practical-quality 3D imaging of cleared specimens in a daily experiments.
 
