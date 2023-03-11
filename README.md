@@ -13,6 +13,12 @@ commercially available from a single company and can be constructed easily accor
 end users who have **no expertise in optics**. Moreover, descSPIM has high expandability according to its
 applications.
 
+descSPIM attempts to fulfull the unmet needs of tissue clearing users- easy-to-install with low expertice. This is in contrast to the current commarcially available lightsheet system (a sophisticated interface while highly costly) and the self-buildng systems (need optics/system operation expertices). 
+
+![230211_concept_fig_middlesize](https://user-images.githubusercontent.com/98086219/224371460-4d456602-3cd6-4755-9d18-f7ff0003d094.png)
+
+The main features of descSPIM are:
+
 **✓ easy-to-build**
 
 **✓ easy-to-operate (use a cuvette / no oil chamber)**
@@ -27,19 +33,9 @@ applications.
 
 For researchers interested in using **SPIM** (selective plane illumination microscopy) when imaging tissue using tissue clearing
 
+
 ## What are ideal imaging applications for a descSPIM?
 
 ・Primary means of imaging transparency samples with SPIM
 
 ・Visualization of cell populations or other structures (e.g. blood vessels, plaques) and sub-cellular structures (e.g. cell nuclei) in giant tissues (e.g. mouse half-brain)
-
-## Concept
-
-Current light-sheet microscopy systems have problems in implementation.
-Since commercially available systems take a huge cost to purchase, and recent open source systems, such as mesoSPIM, 
-require high-level expertise in optical system construction, most biologists find it difficult to utilize. 
-We have therefore developed deskside-equipped SPIM for cleared specimens (descSPIM) as an affordable system which does not require the expertise to construct.
-
-![230211_concept_fig_middlesize](https://user-images.githubusercontent.com/98086219/224371460-4d456602-3cd6-4755-9d18-f7ff0003d094.png)
-
-
