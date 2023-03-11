@@ -1,4 +1,6 @@
-# descSPIM : affordable but versatile light-sheet microscopy system for tissue clearing end users
+# descSPIM
+
+**descSPIM : affordable but versatile light-sheet microscopy system for tissue clearing end users
 
 ![230224_descspim3dcadfig_middleshort](https://user-images.githubusercontent.com/98086219/221199072-4f42f023-e379-449a-8d14-b5d9aa063339.png)
 
