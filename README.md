@@ -13,11 +13,15 @@ commercially available from a single company and can be constructed easily accor
 end users who have **no expertise in optics**. Moreover, descSPIM has high expandability according to its
 applications.
 
-**✔ easy-to-build**
-**✔ easy-to-operate (use a cuvette / no oil chamber)**
-**✔ minimum cost ($20k-50k for descSPIM-basic, depending on the number of lasers)**
-**✔ minimum space (all parts on a 300 mm x 450 mm breadboard)**
-**✔ used on your bench side**
+**✓ easy-to-build**
+
+**✓ easy-to-operate (use a cuvette / no oil chamber)**
+
+**✓ minimum cost ($20k-50k for descSPIM-basic, depending on the number of lasers)**
+
+**✓ minimum space (all parts on a 300 mm x 450 mm breadboard)**
+
+**✓ used on your bench side**
 
 ## Who is the descSPIM for?
 
