@@ -11,11 +11,15 @@ descSPIM is a lightsheet microscopy system that we designed to meet the unmet n
 ![230211_concept_fig_middlesize](https://user-images.githubusercontent.com/98086219/224371460-4d456602-3cd6-4755-9d18-f7ff0003d094.png)
 
 The main features of descSPIM are:
-**✓ Easy-to-build
-**✓ Easy-to-operate (use a cuvette / no oil chamber)
-**✓ Affordable ($20k-50k for descSPIM-basic, depending on the number of lasers)
-**✓ Compact (all parts on a 300 mm x 450 mm breadboard)
-**✓ Versatile (highly expandable and customizable)
+
+**✓ Easy-to-build**/
+**✓ Easy-to-operate (use a cuvette / no oil chamber)**
+
+**✓ Affordable ($20k-50k for descSPIM-basic, depending on the number of lasers)**
+
+**✓ Compact (all parts on a 300 mm x 450 mm breadboard)**
+
+**✓ Versatile (highly expandable and customizable)**
 
 ##
 
