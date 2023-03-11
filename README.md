@@ -2,16 +2,22 @@
 
 ![230224_descspim3dcadfig_middleshort](https://user-images.githubusercontent.com/98086219/221199072-4f42f023-e379-449a-8d14-b5d9aa063339.png)
 
-## What is the descSPIM?
+## What is descSPIM?
 
-**descSPIM** : user-affordable and versatile light-sheet microscopy system for cleared specimens
+**descSPIM** : affordable and versatile light-sheet microscopy system for tissue clearing users
 
-We devised the descSPIM for researchers who have started to use tissue clearing and are having trouble findng a detection system.
+We devised descSPIM for researchers who have started to use tissue clearing and are having trouble findng a detection system.
 This system, which is composed of minimal optical components aligned on a **300 mm x 450 mm optical breadboard**, enables
 3D imaging of cleared specimens with a **sub-cellular spatial resolution**. Most optical components are
 commercially available from a single company and can be constructed easily according to the drawings even by
 end users who have **no expertise in optics**. Moreover, descSPIM has high expandability according to its
 applications.
+
+**✔ easy-to-build**
+**✔ easy-to-operate (use a cuvette / no oil chamber)**
+**✔ minimum cost ($20k-50k for descSPIM-basic, depending on the number of lasers)**
+**✔ minimum space (all parts on a 300 mm x 450 mm breadboard)**
+**✔ used on your bench side**
 
 ## Who is the descSPIM for?
 
