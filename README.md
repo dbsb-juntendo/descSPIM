@@ -4,16 +4,9 @@
 
 ## What is descSPIM?
 
-**descSPIM** : affordable and versatile light-sheet microscopy system for tissue clearing users
+**descSPIM** : affordable but versatile light-sheet microscopy system for tissue clearing end users
 
-We devised descSPIM for researchers who have started to use tissue clearing and are having trouble findng a detection system.
-This system, which is composed of minimal optical components aligned on a **300 mm x 450 mm optical breadboard**, enables
-3D imaging of cleared specimens with a **sub-cellular spatial resolution**. Most optical components are
-commercially available from a single company and can be constructed easily according to the drawings even by
-end users who have **no expertise in optics**. Moreover, descSPIM has high expandability according to its
-applications.
-
-descSPIM attempts to fulfull the unmet needs of tissue clearing users- easy-to-install with low expertice. This is in contrast to the current commarcially available lightsheet system (a sophisticated interface while highly costly) and the self-buildng systems (need optics/system operation expertices). 
+descSPIM is a lightsheet microscopy system that we designed to meet the unmet needs of researchers who are using tissue clearing techniques. The system offers a low-cost and easy-to-use solution for 3D imaging of cleared tissue samples that requires little expertise and cost. Most optical components are readily available from a single vendor and can be readily assembled using the instructions provided. These minimal optical parts are arranged on a small optical breadboard. In contrast to existing lightsheet systems, descSPIM is intended to be simple to install, build, and operate, even for end users with no prior experience in optics. descSPIM is also highly expandable and can be customized to suit a variety of applications, making it a versatile tool for a wide range of research projects. With descSPIM, researchers can easily achieve practical-quality 3D imaging of cleared specimens in a daily experiments.
 
 ![230211_concept_fig_middlesize](https://user-images.githubusercontent.com/98086219/224371460-4d456602-3cd6-4755-9d18-f7ff0003d094.png)
 
