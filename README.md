@@ -29,10 +29,13 @@ The main features of descSPIM are:
 
 **✓ used on your bench side**
 
+##
+
 ## Who is the descSPIM for?
 
 For researchers interested in using **SPIM** (selective plane illumination microscopy) when imaging tissue using tissue clearing
 
+##
 
 ## What are ideal imaging applications for a descSPIM?
 
