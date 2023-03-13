@@ -37,7 +37,7 @@ Inspired by the [openSPIM](https://openspim.org/), [openSPIN](https://sites.goog
 ![230311_descSPIM_partsfig_smallsize_](https://user-images.githubusercontent.com/98086219/224372376-3f8614d1-effc-40ad-8d74-0af757178774.png)
 
 Below is a list of parts needed to build descSPIM.
-The completed image is shown in **[descSPIM-hardware-documentation.md.](https://github.com/dbsb-juntendo/descSPIM/blob/main/descSPIM-hardware-documentation.md)**
+The completed image is shown in **[Introduction](https://github.com/dbsb-juntendo/descSPIM/blob/main/descSPIM-basic.md#introduction)**
 The 3D CAD of the finished drawing is in **[README.md.](https://github.com/dbsb-juntendo/descSPIM/blob/main/README.md)**
 
 ### Parts list
