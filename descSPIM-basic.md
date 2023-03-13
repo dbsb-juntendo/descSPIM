@@ -22,7 +22,7 @@ The main features of the current descSPIM setup are:
 
  ● All parts are commercially available (mostly from Thorlabs).
 
- ● **[Parts list](https://github.com/dbsb-juntendo/descSPIM/blob/main/descSPIM-basic.md#parts)** lists all required parts.
+ ● **[Parts list](https://github.com/dbsb-juntendo/descSPIM/blob/main/descSPIM-basic.md#parts-list)** lists all required parts.
  
  ● Nearly isotropic sampling (X, Y, and Z) with axially swept light sheets for uniform Z resolution across the entire field of view
  
