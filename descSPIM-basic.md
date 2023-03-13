@@ -6,7 +6,7 @@
 
 The descSPIM project aims to build an open-source microscopy platform that can be built with low cost and low optical expertise.
 
-![230226_descSPIM_hardware](https://user-images.githubusercontent.com/98086219/221413856-c2b866a3-955a-4e53-b62b-0597dc6fa1ba.jpg)
+![230313github_descSPIM_hardware_test](https://user-images.githubusercontent.com/98086219/224652444-17bf4baf-d01a-41f8-8d36-82855afd5953.jpg)
 
 This is the image after construction. 
 
@@ -33,8 +33,7 @@ Inspired by the [openSPIM](https://openspim.org/), [openSPIN](https://sites.goog
 
 ## Parts
 
-
-![230311_descSPIM_partsfig_smallsize_](https://user-images.githubusercontent.com/98086219/224372376-3f8614d1-effc-40ad-8d74-0af757178774.png)
+![230311github_descSPIM_partsfig_test](https://user-images.githubusercontent.com/98086219/224652856-07951e67-bc4b-45a0-b52d-11c553cd03e6.png)
 
 Below is a list of parts needed to build descSPIM.
 The completed image is shown in **[Introduction](https://github.com/dbsb-juntendo/descSPIM/blob/main/descSPIM-basic.md#introduction)**
