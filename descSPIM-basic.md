@@ -35,7 +35,7 @@ Inspired by the [openSPIM](https://openspim.org/), [openSPIN](https://sites.goog
 
 ![230311github_descSPIM_partsfig_test](https://user-images.githubusercontent.com/98086219/224652856-07951e67-bc4b-45a0-b52d-11c553cd03e6.png)
 
-Below is a list of parts needed to build descSPIM.
+The above image and a breadboard of 30 cm x 45 cm are all the components needed to build descSPIM.
 The completed image is shown in **[Introduction](https://github.com/dbsb-juntendo/descSPIM/blob/main/descSPIM-basic.md#introduction)**
 The 3D CAD of the finished drawing is in **[README.md.](https://github.com/dbsb-juntendo/descSPIM/blob/main/README.md)**
 
