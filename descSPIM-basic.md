@@ -53,6 +53,8 @@ The **descSPIM** is a light sheet microscope that does not require advanced opti
 
 ## Operation
 
+This section summarizes the operation of descSPIM. Please refer to the following PDF file Explanation MOVIE is also available.
+
 ## Introduced sites
 
 Here is a list of sites related to descSPIM. Please check them.
