@@ -26,19 +26,29 @@ The main features of descSPIM are:
 
 ## Who is the descSPIM for?
 
-For researchers interested in using **SPIM** (selective plane illumination microscopy) when imaging tissue using tissue clearing
+Researchers interested in using **Light-sheet fluorescence microscopy (LSFM)** for cleared tissue imaging
 
 ##
 
 ## What are ideal imaging applications for a descSPIM?
 
-・Primary means of imaging transparency samples with SPIM
+・Macro- to meso-scale imaging of 3D volumetric sample prepared by tissue clearing techniques (CUBIC, BABB etc.)
 
-・Visualization of cell populations or other structures (e.g. blood vessels, plaques) and sub-cellular structures (e.g. cell nuclei) in giant tissues (e.g. mouse half-brain)
+・Visualization of cell populations or anatomical structures (e.g. blood vessels, plaques) with cellular to sub-cellular resolutions
+
+## 
+
+## Guide to install
+
+It is recommended to start learning "Basic of optics ※リンクを挿入" and "Preparation of cleared samples ※リンクを挿入", and start introducing descSPIM-basic. Add-on functions are developed to be compatible with the basic system.
 
 ## 
 
 ## Terms and Conditions
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
+
 descSPIM is an open-source project for academic purpose. Please refer to our original manuscript LINK... We are also willing to help install the system into the users sites under collaboration. If you are interested in, please contact to the corresponding address (Etsuo Susaki, suishess-kyu@umin.ac.jp)
 We do not assume that the system is used for profitable company...
 
@@ -46,4 +56,14 @@ We do not assume that the system is used for profitable company...
 
 ## References
 
+descSPIM original paper...
+
+Susaki et al. Versatile whole-organ/body staining and imaging based on electrolyte-gel properties of biological tissues. Nat Commun 11, 1982 (2020)
+※リンク埋め込み https://doi.org/10.1038/s41467-020-15906-5
+
+Matsumoto et al. Advanced CUBIC tissue clearing for whole-organ cell profiling. Nat Protoc 14, 3506–3537 (2019)
+※リンク埋め込み https://doi.org/10.1038/s41596-019-0240-9
+
+
+CUBIC resource website http://cubic.riken.jp ※リンク埋め込み
 
