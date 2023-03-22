@@ -32,7 +32,7 @@ Researchers interested in using **Light-sheet fluorescence microscopy (LSFM)** f
 
 ## What are ideal imaging applications for a descSPIM?
 
-・Macro- to meso-scale imaging of 3D volumetric sample prepared by tissue clearing techniques (CUBIC, BABB etc.)
+・Macro- to meso-scale imaging of 3D volumetric samples prepared by tissue clearing techniques with strong efficiency (CUBIC, BABB, DISCO, SHIELDs etc.)
 
 ・Visualization of cell populations or anatomical structures (e.g. blood vessels, plaques) with cellular to sub-cellular resolutions
 
