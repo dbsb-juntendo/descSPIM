@@ -46,7 +46,7 @@ It is recommended to start learning "Basic of optics ※リンクを挿入" and 
 
 ## Terms and Conditions
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
 
 descSPIM is an open-source project for academic purpose. Please refer to our original manuscript LINK... We are also willing to help install the system into the users sites under collaboration. If you are interested in, please contact to the corresponding address (Etsuo Susaki, suishess-kyu@umin.ac.jp)
