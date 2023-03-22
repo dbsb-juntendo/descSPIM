@@ -48,15 +48,29 @@ It is recommended to start learning "Basic of optics ※リンクを挿入" and 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
+By using descSPIM, you agree to abide by these terms and conditions:
 
-descSPIM is an open-source project for academic purpose. Please refer to our original manuscript LINK... We are also willing to help install the system into the users sites under collaboration. If you are interested in, please contact to the corresponding address (Etsuo Susaki, suishess-kyu@umin.ac.jp)
-We do not assume that the system is used for profitable company...
+- This system is only available for academic use. Any use for commercial purposes is strictly prohibited, unless permission is granted by the authors.
+
+- Academic users are allowed to use, apply, and adopt the system in accordance with the CC by 4.0 license policy. This includes modifications, adaptations, and redistribution of the system and its components.
+
+- Commercial use of the system is restricted. If any commercial enterprise wants to use the system, they must contact the authors (suishess-kyu@umin.ac.jp) to request permission.
+
+- All users of the system must acknowledge and refer to the original paper (Otomo et al. bioRxiv 2023) in any publications or presentations resulting from the use of the system.
+
+- The authors of this system are not responsible for any consequences arising from the use of this system. Users assume all risks and liabilities associated with the use of the system.
+
+- The authors reserve the right to modify or terminate the system and its services at any time, without prior notice.
+
+- Users agree to comply with all applicable laws and regulations regarding the use of the system.
+
+- Any disputes arising from the use of this system shall be resolved through negotiation between the parties. If a resolution cannot be reached, the dispute shall be submitted to binding arbitration in accordance with the laws of Japan.
 
 ## 
 
 ## References
 
-descSPIM original paper...
+Otomo et al. descSPIM: hogehoge... bioRxiv (2023) 
 
 Susaki et al. Versatile whole-organ/body staining and imaging based on electrolyte-gel properties of biological tissues. Nat Commun 11, 1982 (2020)
 ※リンク埋め込み https://doi.org/10.1038/s41467-020-15906-5
