@@ -41,7 +41,7 @@ The 3D CAD of the finished drawing is in **[README.md.](https://github.com/dbsb-
 
 ### Parts list
 
-https://docs.google.com/spreadsheets/d/1r36WyBGVTOIC3Bhc7_lVGBghMWGo7IwB/edit?usp=share_link&ouid=111218833015039015118&rtpof=true&sd=true
+https://github.com/dbsb-juntendo/descSPIM/files/11071654/descSPIM_part_list_price_01.xlsx
 
 If you wish to order or purchase parts from the parts list, please contact us "**[dbsb-juntendo](http://www.dbsb.science/)**" or contact Thorlabs in advance to facilitate the process.
 
