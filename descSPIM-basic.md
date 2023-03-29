@@ -51,6 +51,10 @@ If you wish to order or purchase parts from the parts list, please contact us "*
 
 The **descSPIM** is a light sheet microscope that does not require advanced optical expertise and can be constructed as if you were assembling a **block toy**. It can be constructed in about **a few hours**. A construction tutorial will be provided, and you can follow it as you go through the construction process.
 
+Below is the manual for the construction procedure.
+file:///C:/Users/YNOZAWA/Downloads/230329_230201_descSPIM%E3%83%81%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%82%A2%E3%83%AB_%E6%A7%8B%E7%AF%89%E6%89%8B%E9%A0%86.pdf
+※内容の確認前なので、試験的にPDFファイルとして添付しました。
+
 ## Operation
 
 This section summarizes the operation of descSPIM. Please refer to the following PDF file Explanation MOVIE is also available.
