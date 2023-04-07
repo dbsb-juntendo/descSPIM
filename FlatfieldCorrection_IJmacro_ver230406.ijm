@@ -1,3 +1,6 @@
+//Under GNU Licens 4.0... [OMura assigned]
+
+
 
 //Confirm that the x-y pixel numbers of the reference and sample images are the same
 
