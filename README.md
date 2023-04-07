@@ -44,7 +44,7 @@ It is recommended to start learning [Basic of optics](https://github.com/dbsb-ju
 
 Add-ons: (under construction)
 
-[scripts and softwares](https://github.com/dbsb-juntendo/descSPIM/blob/main/Scripts.md)
+[Code and softwares](https://github.com/dbsb-juntendo/descSPIM/blob/main/Scripts.md)
 
 ## 
 
