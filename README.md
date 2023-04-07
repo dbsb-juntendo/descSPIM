@@ -40,7 +40,12 @@ Researchers interested in using **Light-sheet fluorescence microscopy (LSFM)** f
 
 ## Guide to install
 
-It is recommended to start learning "Basic of optics ※リンクを挿入" and "Preparation of cleared samples ※リンクを挿入", and start introducing descSPIM-basic. Add-on functions are developed to be compatible with the basic system.
+It is recommended to start learning [Basic of optics] (https://github.com/dbsb-juntendo/descSPIM/blob/main/Basics%20of%20optics.md) and "Preparation of cleared samples ※リンクを挿入", and start introducing descSPIM-basic. Add-on functions are developed to be compatible with the basic system.
+
+descSPIM-basic
+
+scripts and softwares
+
 
 ## 
 
@@ -58,7 +63,7 @@ By using descSPIM, you agree to abide by these terms and conditions:
 
 - All users of the system must acknowledge and refer to the original paper (Otomo et al. bioRxiv 2023) in any publications or presentations resulting from the use of the system.
 
-- The authors of this system are not responsible for any consequences arising from the use of this system. Users assume all risks and liabilities associated with the use of the system.
+- The authors are not responsible for any consequences arising from the use of this system as well as related tools, scripts, and software. Users assume all risks and liabilities associated with the use.
 
 - The authors reserve the right to modify or terminate the system and its services at any time, without prior notice.
 
@@ -72,12 +77,10 @@ By using descSPIM, you agree to abide by these terms and conditions:
 
 Otomo et al. descSPIM: hogehoge... bioRxiv (2023) 
 
-Susaki et al. Versatile whole-organ/body staining and imaging based on electrolyte-gel properties of biological tissues. Nat Commun 11, 1982 (2020)
-※リンク埋め込み https://doi.org/10.1038/s41467-020-15906-5
+[Susaki et al. Versatile whole-organ/body staining and imaging based on electrolyte-gel properties of biological tissues. Nat Commun 11, 1982 (2020)]
+(https://doi.org/10.1038/s41467-020-15906-5)
 
-Matsumoto et al. Advanced CUBIC tissue clearing for whole-organ cell profiling. Nat Protoc 14, 3506–3537 (2019)
-※リンク埋め込み https://doi.org/10.1038/s41596-019-0240-9
+[Matsumoto et al. Advanced CUBIC tissue clearing for whole-organ cell profiling. Nat Protoc 14, 3506–3537 (2019)] (https://doi.org/10.1038/s41596-019-0240-9)
 
-
-CUBIC resource website http://cubic.riken.jp ※リンク埋め込み
+[CUBIC resource website] (http://cubic.riken.jp)
 
