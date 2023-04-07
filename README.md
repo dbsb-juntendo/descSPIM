@@ -40,7 +40,7 @@ Researchers interested in using **Light-sheet fluorescence microscopy (LSFM)** f
 
 ## Guide to install
 
-It is recommended to start learning [Basic of optics](https://github.com/dbsb-juntendo/descSPIM/blob/main/Basics%20of%20optics.md) and [Preparation of cleared samples](https://github.com/dbsb-juntendo/descSPIM/blob/main/Sample%20preparation.md), and start introducing [descSPIM-basic](https://github.com/dbsb-juntendo/descSPIM/blob/main/descSPIM-basic.md). Add-on functions are developed to be compatible with the basic system.
+It is recommended to start learning [Basic of optics](https://github.com/dbsb-juntendo/descSPIM/blob/main/Basics%20of%20optics.md) and [Cleared sample preparation](https://github.com/dbsb-juntendo/descSPIM/blob/main/Sample%20preparation.md), and start introducing [descSPIM-basic](https://github.com/dbsb-juntendo/descSPIM/blob/main/descSPIM-basic.md). Add-on functions are developed to be compatible with the basic system.
 
 Add-ons: (under construction)
 
