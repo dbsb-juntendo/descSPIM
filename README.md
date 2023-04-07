@@ -84,7 +84,7 @@ By using descSPIM, you agree to abide by these terms and conditions:
 
 - [Susaki et al. Versatile whole-organ/body staining and imaging based on electrolyte-gel properties of biological tissues. Nat Commun 11, 1982 (2020)](https://doi.org/10.1038/s41467-020-15906-5)
 
-- [Matsumoto et al. Advanced CUBIC tissue clearing for whole-organ cell profiling. [Nat Protoc 14, 3506–3537 (2019)(https://doi.org/10.1038/s41596-019-0240-9)
+- [Matsumoto et al. Advanced CUBIC tissue clearing for whole-organ cell profiling. Nat Protoc 14, 3506–3537 (2019)](https://doi.org/10.1038/s41596-019-0240-9)
 
 - [CUBIC resource website](http://cubic.riken.jp)
 
