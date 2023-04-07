@@ -1,0 +1,10 @@
+@article{Susaki2023,
+  author = {YourLastName1, YourFirstName1 and YourLastName2, YourFirstName2 and YourLastName3, YourFirstName3},
+  title = {Title of the paper},
+  journal = {Journal/Conference Name},
+  volume = {volume},
+  issue = {issue},
+  pages = {pages},
+  year = {2023},
+  doi = {doi number},
+}
