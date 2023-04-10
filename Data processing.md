@@ -16,9 +16,10 @@ In order to get the reference image, hogehoge... acquired using dye-solving solu
 [Download here] 
 > :warning: **Note:** This code has been tested only on Ubuntu. While it may work on other operating systems, compatibility and functionality are not guaranteed.
 
-<details>
+<details open>
 <summary>Preparation</summary>
   
+  <details>
   - Install ImageMagick  
   1. Update your package list and install the necessary dependencies
   ```bash
@@ -46,7 +47,11 @@ In order to get the reference image, hogehoge... acquired using dye-solving solu
   ```bash
   Version: ImageMagick 7.X.Y-X Q16 x86_64 2023-04-08 https://imagemagick.org
   ```
+    
+    </details>
+    
   - Install C3D
+  1. 
 </details>
 
 
