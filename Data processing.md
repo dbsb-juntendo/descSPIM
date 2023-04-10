@@ -16,54 +16,12 @@ In order to get the reference image, hogehoge... acquired using dye-solving solu
 [Download here] 
 > :warning: **Note:** This code has been tested only on Ubuntu. While it may work on other operating systems, compatibility and functionality are not guaranteed.
 
-<details>
-  <summary>Preparation</summary>
+Preparations
+-Install ImageMagick
+-Install C3D
 
-    - Install ImageMagick
-
-    1. Update your package list and install the necessary dependencies
-        ```bash
-        sudo apt-get update
-        sudo apt-get install -y software-properties-common wget
-        ```
-
-    2. Add the ImageMagick repository to your system
-
-        ```bash
-        wget -qO- https://www.imagemagick.org/download/ImageMagick.key | sudo apt-key add -
-        sudo add-apt-repository "deb https://www.imagemagick.org/download/ubuntu focal main"
-        ```
-
-    3. Update your package list again to include the newly added repository
-
-        ```bash
-        sudo apt-get update
-        ```
-
-    4. Install ImageMagick
-
-        ```bash
-        sudo apt-get install -y imagemagick
-        ```
-
-    5. Verify the installation by checking the version
-
-        ```bash
-        magick -version
-        ```
-
-    The output should be like the following:
-
-        ```bash
-        Version: ImageMagick 7.X.Y-X Q16 x86_64 2023-04-08 https://imagemagick.org
-        ```
-
-    <summary>- Install C3D</summary>
-    
-    1. (Add your C3D installation instructions here)
-
-</details>
-
+How to use:
+Please follow the instructions in the code.
 
 
 
