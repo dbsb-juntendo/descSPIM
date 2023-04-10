@@ -12,7 +12,14 @@ In order to get the reference image, hogehoge... acquired using dye-solving solu
 
 2. run macro with ImageJ/Fiji
 
-## Compile NIfTI file from TIF(TIFF) stacks
+## Compile NIfTI file from TIF(TIFF) stacks: .ipynb file
+[Download here] 
+<details>
+<summary>Preparation</summary>
+  1. Install ImageMagick
+  2. Install C3D
+</details>
+
 
 
 ## Stitching with Bigstitcher
