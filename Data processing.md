@@ -24,7 +24,7 @@ In order to get the reference image, hogehoge... acquired using dye-solving solu
 
     1. Update your package list and install the necessary dependencies
 
-        ```
+        ```bash
         sudo apt-get update
         sudo apt-get install -y software-properties-common wget
         ```
