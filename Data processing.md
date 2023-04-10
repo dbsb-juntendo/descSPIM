@@ -1,3 +1,7 @@
+## LICENSE ##
+Hogehoge...
+
+
 ## Flatfiled correction: ImageJ macro
 [Download here](https://github.com/dbsb-juntendo/descSPIM/blob/main/FlatfieldCorrection_IJmacro_ver230406.ijm)
 
