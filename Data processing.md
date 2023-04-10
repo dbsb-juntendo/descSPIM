@@ -20,7 +20,7 @@ In order to get the reference image, hogehoge... acquired using dye-solving solu
 <summary>Preparation</summary>
   
   <details>
-  - Install ImageMagick  
+    <summary>- Install ImageMagick</summary>  
   1. Update your package list and install the necessary dependencies
   ```bash
   sudo apt-get update
