@@ -30,7 +30,22 @@ In order to get the reference image, hogehoge... acquired using dye-solving solu
   wget -qO- https://www.imagemagick.org/download/ImageMagick.key | sudo apt-key add -
   sudo add-apt-repository "deb https://www.imagemagick.org/download/ubuntu focal main"
   ```
-  3. 
+  3. Update your package list again to include the newly added repository
+  ```bash
+  sudo apt-get update
+  ```
+  4. Install ImageMagick
+  ```bash
+  sudo apt-get install -y imagemagick
+  ```
+  5. Verify the installation by checking the version
+  ```bash
+  magick -version
+  ```
+  The output should be like following: ```bash
+  Version: ImageMagick 7.X.Y-X Q16 x86_64 2023-04-08 https://imagemagick.org
+  ```
+
 
  
   - Install C3D
