@@ -1,6 +1,6 @@
 //Copyright and Licensing
 //The code accompanying this paper is released under the MIT License. 
-//Please find the full license text in the home directory of this repository. 
+//Please find the full license text in the root directory of this repository. 
 //If you use any part of our code in your work, we kindly request that you cite this paper as follows:
 //K., Otomo, ...,  E,A.,Susaki. 2023. {Title of the paper}. {Journal Name}, {volume(issue)}, {pages}. 
 //DOI: {doi number}
