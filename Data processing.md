@@ -42,12 +42,10 @@ In order to get the reference image, hogehoge... acquired using dye-solving solu
   ```bash
   magick -version
   ```
-  The output should be like following: ```bash
+  The output should be like following: 
+  ```bash
   Version: ImageMagick 7.X.Y-X Q16 x86_64 2023-04-08 https://imagemagick.org
   ```
-
-
- 
   - Install C3D
 </details>
 
