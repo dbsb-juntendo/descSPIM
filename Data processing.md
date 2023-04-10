@@ -12,6 +12,7 @@ In order to get the reference image, hogehoge... acquired using dye-solving solu
 
 2. run macro with ImageJ/Fiji
 
+## Compile NIfTI file from TIF(TIFF) stacks
 
 
 ## Stitching with Bigstitcher
