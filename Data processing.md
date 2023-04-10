@@ -16,8 +16,10 @@ In order to get the reference image, hogehoge... acquired using dye-solving solu
 [Download here] 
 > :warning: **Note:** This code has been tested only on Ubuntu. While it may work on other operating systems, compatibility and functionality are not guaranteed.
 
-Preparations
+Preparations:
+
 -Install ImageMagick
+
 -Install C3D
 
 How to use:
