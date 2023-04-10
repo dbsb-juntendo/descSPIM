@@ -16,9 +16,8 @@ In order to get the reference image, hogehoge... acquired using dye-solving solu
 [Download here] 
 <details>
 <summary>Preparation</summary>
-1. Install ImageMagick
-  
-1. Install C3D
+  1. Install ImageMagick
+  1. Install C3D
 </details>
 
 
