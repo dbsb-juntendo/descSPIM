@@ -24,10 +24,10 @@ In order to get the reference image, hogehoge... acquired using dye-solving solu
 
     1. Update your package list and install the necessary dependencies
 
-        ```
+        
         sudo apt-get update
         sudo apt-get install -y software-properties-common wget
-        ```
+        
 
     2. Add the ImageMagick repository to your system
 
