@@ -64,7 +64,7 @@ By using descSPIM, you agree to abide by these terms and conditions:
 
 - Academic users are allowed to use, apply, and adopt the system in accordance with the CC by 4.0 license policy. This includes modifications, adaptations, and redistribution of the system and its components.
 
-- Commercial use of the system is restricted. If any commercial enterprise wants to use the system, they must contact the authors (suishess-kyu@umin.ac.jp) to request permission.
+- If any commercial enterprise wants to use, produce, or sell the system, they must contact the authors (suishess-kyu@umin.ac.jp) to request permission.
 
 - All users of the system must acknowledge and refer to the original paper (Otomo et al. bioRxiv 2023) in any publications or presentations resulting from the use of the system.
 
