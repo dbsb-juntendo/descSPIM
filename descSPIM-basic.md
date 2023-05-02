@@ -20,7 +20,7 @@ The main features of the descSPIM-basic setup are:
 
  ● All parts are commercially available (mostly from Thorlabs).
 
- ● **[Parts list](https://github.com/dbsb-juntendo/descSPIM/blob/main/descSPIM-basic.md#parts-list)** lists all required parts.
+ ● The parts list includes all required components (link below).
  
  ● Volume imaging completing within **a few minutes** 
  
@@ -36,26 +36,31 @@ The 3D CAD of the finished drawing is in **[README.md.](https://github.com/dbsb-
 
 ### Parts list
 
+The parts list for descSPIM-basic can be downloaded here:
+
 https://github.com/dbsb-juntendo/descSPIM/releases/download/v1.0.0/descSPIM_part_list_price_01.1.xlsx
 
 You can order all the parts (except for laser) to [Thorlabs](https://www.thorlabs.com).
 
 ## Construction
 
-### How to construct descSPIM?
+### How to construct descSPIM
 
-The **descSPIM** is a light-sheet microscope that you can build as if you were assembling a **block toy**. A construction tutorial is provided as follows. You can use the guide throughout the construction procedure.
+**descSPIM** is a light-sheet microscope that you can build as if you were assembling a **block toy**. A construction tutorial is provided as follows. You can use the guide throughout the construction procedure.
 
 Below is the manual for the construction procedure.
+
 (coming soon)
 
 ## Operation
 
 This section summarizes the operation of descSPIM. Please refer to the following PDF file Explanation MOVIE is also available.
+
 (coming soon)
 
 ## Introduced sites
 
 Here is a list of sites related to descSPIM. Please check them.
+
 (coming soon)
 
