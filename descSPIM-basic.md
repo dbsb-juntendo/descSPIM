@@ -4,32 +4,27 @@
 
 ## Introduction
 
-The descSPIM project aims to build an open-source microscopy platform that can be built with low cost and low optical expertise.
+The descSPIM project aims to build an open-source microscopy platform that can be built with low cost and low expertise in optics.
 
 ![230313github_descSPIM_hardware_test](https://user-images.githubusercontent.com/98086219/224652444-17bf4baf-d01a-41f8-8d36-82855afd5953.jpg)
 
-This is the image after construction. 
-
 ***
 
-The main features of the current descSPIM setup are:
+The main features of the descSPIM-basic setup are:
 
- ● Compatibility with many major clearing technologies, including **[CUBIC](https://www.tcichemicals.com/JP/en/search/?text=CUBIC)**  (Susaki et al., Cell 2014)
+ ● Compatibility with many major clearing technologies, including **CUBIC**, **BABB**, **3DISCO/iDISCO**, and **SHIELDS**.
  
- ● The build can be completed in **a few hours to half a day**. 
+ ● The build can be completed in **half a day**. 
  
- ● It does **not** require a high level of expertise. 
+ ● It does **not** require a high level of microscopy expertise. 
 
  ● All parts are commercially available (mostly from Thorlabs).
 
  ● **[Parts list](https://github.com/dbsb-juntendo/descSPIM/blob/main/descSPIM-basic.md#parts-list)** lists all required parts.
  
- ● Nearly isotropic sampling (X, Y, and Z) with axially swept light sheets for uniform Z resolution across the entire field of view
+ ● Volume imaging completing within **a few minutes** 
  
  ___
-
-Inspired by the [openSPIM](https://openspim.org/), [openSPIN](https://sites.google.com/site/openspinmicroscopy/?pli=1&authuser=1) projects, the [mesoSPIM](https://github.com/mesoSPIM) and [mesoSPIM projects](https://mesospim.org/), the documentation for building and extending your own descSPIM is available here.
-
 
 ## Parts
 
@@ -43,23 +38,24 @@ The 3D CAD of the finished drawing is in **[README.md.](https://github.com/dbsb-
 
 https://github.com/dbsb-juntendo/descSPIM/releases/download/v1.0.0/descSPIM_part_list_price_01.1.xlsx
 
-If you wish to order or purchase parts from the parts list, please contact us "**[dbsb-juntendo](http://www.dbsb.science/)**" or contact Thorlabs in advance to facilitate the process.
+You can order all the parts (except for laser) to [Thorlabs](https://www.thorlabs.com).
 
 ## Construction
 
 ### How to construct descSPIM?
 
-The **descSPIM** is a light sheet microscope that does not require advanced optical expertise and can be constructed as if you were assembling a **block toy**. It can be constructed in about **a few hours**. A construction tutorial will be provided, and you can follow it as you go through the construction process.
+The **descSPIM** is a light-sheet microscope that you can build as if you were assembling a **block toy**. A construction tutorial is provided as follows. You can use the guide throughout the construction procedure.
 
 Below is the manual for the construction procedure.
-file:///C:/Users/YNOZAWA/Downloads/230329_230201_descSPIM%E3%83%81%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%82%A2%E3%83%AB_%E6%A7%8B%E7%AF%89%E6%89%8B%E9%A0%86.pdf
-※内容の確認前なので、試験的にPDFファイルとして添付しました。
+(coming soon)
 
 ## Operation
 
 This section summarizes the operation of descSPIM. Please refer to the following PDF file Explanation MOVIE is also available.
+(coming soon)
 
 ## Introduced sites
 
 Here is a list of sites related to descSPIM. Please check them.
+(coming soon)
 
