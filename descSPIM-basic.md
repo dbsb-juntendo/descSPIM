@@ -12,17 +12,17 @@ The descSPIM project aims to build an open-source microscopy platform that can b
 
 The main features of the descSPIM-basic setup are:
 
- ● Compatibility with many major clearing technologies, including **CUBIC**, **BABB**, **3DISCO/iDISCO**, and **SHIELDS**.
+ ● Compatibility with major tissue clearing technologies, including **CUBIC**, **BABB**, **3DISCO/iDISCO**, and **SHIELDS**.
  
- ● The build can be completed in **half a day**. 
+ ● The construction can be completed in **half a day**. 
  
  ● It does **not** require a high level of microscopy expertise. 
 
  ● All parts are commercially available (mostly from Thorlabs).
 
- ● The parts list includes all required components (link below).
+ ● An affordable cost ($20k-50k) is achieved.
  
- ● Volume imaging completing within **a few minutes** 
+ ● A volume imaging completing within **a few minutes**.
  
  ___
 
