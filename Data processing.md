@@ -2,7 +2,7 @@
 Hogehoge...
 
 
-## Flatfiled correction: ImageJ macro
+## Flatfiled correction (ImageJ macro)
 [Download here](https://github.com/dbsb-juntendo/descSPIM/blob/main/FlatfieldCorrection_IJmacro_ver230406.ijm)
 
 How to use:
@@ -15,6 +15,9 @@ In order to get the reference image, hogehoge... acquired using dye-solving solu
 (2) a sample xyz image stack to be corrected
 
 2. run macro with ImageJ/Fiji
+
+## Tiling light-sheet method: tiling x position finder (ImageJ macro)
+(coming soon)
 
 ## Compile NIfTI file from TIF(TIFF) stacks: .ipynb file
 [Download here] 
