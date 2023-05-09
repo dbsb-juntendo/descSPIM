@@ -40,17 +40,17 @@ Researchers interested in using **Light-sheet fluorescence microscopy (LSFM)** f
 
 ## Guide to install
 
-It is recommended to start learning [Basic of optics](https://github.com/dbsb-juntendo/descSPIM/blob/main/Basics%20of%20optics.md) and [Cleared sample preparation](https://github.com/dbsb-juntendo/descSPIM/commit/27e4a726fa61c5c4917e3caaebc5d56383849d86), and to introduce [descSPIM-basic](https://github.com/dbsb-juntendo/descSPIM/blob/main/descSPIM-basic.md). Add-on functions are developed to be compatible with the basic system.
+It is recommended to start learning [Basic of optics](https://github.com/dbsb-juntendo/descSPIM/blob/main/DOCs/Basics%20of%20optics.md) and [Cleared sample preparation](https://github.com/dbsb-juntendo/descSPIM/blob/main/DOCs/Cleared%20sample%20preparation.md), and to introduce [descSPIM-basic](https://github.com/dbsb-juntendo/descSPIM/blob/main/descSPIM-basic/descSPIM-basic.md). Add-on functions are developed to be compatible with the basic system.
 
 Add-ons: (under construction)
 
-[Data processing](https://github.com/dbsb-juntendo/descSPIM/blob/main/Data%20processing.md)
+[Data processing](https://github.com/dbsb-juntendo/descSPIM/blob/main/DOCs/Data%20processing.md)
 
 ## 
 
 ## FAQ
 
-You can see answers for Frequently Asked Questions [here](https://github.com/dbsb-juntendo/descSPIM/blob/main/FAQ.md). 
+You can see answers for Frequently Asked Questions [here](https://github.com/dbsb-juntendo/descSPIM/blob/main/DOCs/FAQ.md). 
 
 ## 
 
