@@ -2,7 +2,7 @@
 Hogehoge...
 
 
-## Flatfiled correction (ImageJ macro)
+## Flat-field correction (ImageJ macro)
 [Download here](https://github.com/dbsb-juntendo/descSPIM/blob/main/FlatfieldCorrection_IJmacro_ver230406.ijm)
 
 How to use:
