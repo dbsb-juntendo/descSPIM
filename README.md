@@ -40,7 +40,7 @@ Researchers interested in using **Light-sheet fluorescence microscopy (LSFM)** f
 
 ## Guide to install
 
-It is recommended to start learning [Basic of optics](https://github.com/dbsb-juntendo/descSPIM/blob/main/Basics%20of%20optics.md) and [Cleared sample preparation](https://github.com/dbsb-juntendo/descSPIM/blob/main/Sample%20preparation.md), and to introduce [descSPIM-basic](https://github.com/dbsb-juntendo/descSPIM/blob/main/descSPIM-basic.md). Add-on functions are developed to be compatible with the basic system.
+It is recommended to start learning [Basic of optics](https://github.com/dbsb-juntendo/descSPIM/blob/main/Basics%20of%20optics.md) and [Cleared sample preparation](https://github.com/dbsb-juntendo/descSPIM/commit/27e4a726fa61c5c4917e3caaebc5d56383849d86), and to introduce [descSPIM-basic](https://github.com/dbsb-juntendo/descSPIM/blob/main/descSPIM-basic.md). Add-on functions are developed to be compatible with the basic system.
 
 Add-ons: (under construction)
 
@@ -80,7 +80,7 @@ By using descSPIM, you agree to abide by these terms and conditions:
 
 ## References
 
-- Otomo et al. descSPIM: Affordable and Easy-to-Build Light-Sheet Microscopy for Clearing Technique Users. bioRxiv (2023) 
+- [Otomo et al. descSPIM: Affordable and Easy-to-Build Light-Sheet Microscopy for Clearing Technique Users. bioRxiv (2023)](https://www.biorxiv.org/content/10.1101/2023.05.02.539136v2) 
 
 - [Susaki et al. Versatile whole-organ/body staining and imaging based on electrolyte-gel properties of biological tissues. Nat Commun 11, 1982 (2020)](https://doi.org/10.1038/s41467-020-15906-5)
 
