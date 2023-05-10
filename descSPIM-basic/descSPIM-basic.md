@@ -28,7 +28,7 @@ The main features of the descSPIM-basic setup are:
 
 ## Parts
 
-![230311github_descSPIM_partsfig_test](https://user-images.githubusercontent.com/98086219/224652856-07951e67-bc4b-45a0-b52d-11c553cd03e6.png)
+![descSPIM_parts_list_middle](https://github.com/dbsb-juntendo/descSPIM/assets/126061350/b7847186-f8bb-4b6b-9544-b46f29f72eb3)
 
 The above image and a breadboard of 30 cm x 45 cm are all the components needed to build descSPIM.
 A photo of the completed instrumentation is in **[Introduction](https://github.com/dbsb-juntendo/descSPIM/blob/main/descSPIM-basic.md#introduction)**.
