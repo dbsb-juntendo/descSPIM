@@ -2,7 +2,7 @@
 
 **descSPIM : affordable but versatile light-sheet microscopy system for tissue clearing end users**
 
-<img width="300" alt="230313_github3dcadtest2" src="https://user-images.githubusercontent.com/98086219/224651257-9313ab54-3692-4b3f-b550-f3c017f3d1ca.png">
+![descSPIM_CAD_for_GitHub](https://github.com/dbsb-juntendo/descSPIM/assets/126061350/a9ce3862-336e-4912-8bd4-513111489ccf)
 
 ## What is descSPIM?
 
