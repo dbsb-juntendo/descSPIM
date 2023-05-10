@@ -6,7 +6,7 @@
 
 The descSPIM project aims to build an open-source microscopy platform that can be built with low cost and low expertise in optics.
 
-![230313github_descSPIM_hardware_test](https://user-images.githubusercontent.com/98086219/224652444-17bf4baf-d01a-41f8-8d36-82855afd5953.jpg)
+![224652444-17bf4baf-d01a-41f8-8d36-82855afd5953_middle](https://github.com/dbsb-juntendo/descSPIM/assets/126061350/e8191d5c-51ed-4f7b-bbf8-f89b7c95626c)
 
 ***
 
