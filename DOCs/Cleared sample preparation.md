@@ -25,6 +25,14 @@ Selected literature:
 
 [Richardson et al. Nat Rev Methods Primer (2021) 1:84](https://doi.org/10.1038/s43586-021-00080-9)
 
+for more intensive learning:
+[Handbook of Tissue Optical Clearing - New Prospects in Optical Imaging](https://www.routledge.com/Handbook-of-Tissue-Optical-Clearing-New-Prospects-in-Optical-Imaging/Tuchin-Zhu-Genina/p/book/9780367895099)
+
+Edited By Valery V. Tuchin, Dan Zhu, Elina A. Genina
+
+Published February 9, 2022 by CRC Press. ISBN 9780367895099
+
+
 # 2. Point to choose clearing protocols
 
 Several tissue clearing protocols are available, each with its own advantages and disadvantages. 
