@@ -27,7 +27,7 @@ Selected literature:
 
 for more intensive learning:
 
-[Handbook of Tissue Optical Clearing - New Prospects in Optical Imaging](https://www.routledge.com/Handbook-of-Tissue-Optical-Clearing-New-Prospects-in-Optical-Imaging/Tuchin-Zhu-Genina/p/book/9780367895099)
+[Handbook of Tissue Optical Clearing - New Prospects in Optical Imaging. ](https://www.routledge.com/Handbook-of-Tissue-Optical-Clearing-New-Prospects-in-Optical-Imaging/Tuchin-Zhu-Genina/p/book/9780367895099)
 Edited By Valery V. Tuchin, Dan Zhu, Elina A. Genina, 
 Published February 9, 2022 by CRC Press. ISBN 9780367895099
 
