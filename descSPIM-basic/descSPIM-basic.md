@@ -48,15 +48,15 @@ You can order all the parts (except for laser) to [Thorlabs](https://www.thorlab
 
 Below is the manual for the construction procedure.
 
-**[construction manual ver. 230520](https://github.com/dbsb-juntendo/descSPIM/blob/main/descSPIM-basic/descSPIM_construction_ver230520.pdf)**.
+**[construction manual ver. 230520](https://github.com/dbsb-juntendo/descSPIM/blob/main/descSPIM-basic/descSPIM_construction_ver230520.pdf?raw=true)**.
 
-**[opt. alignment manual ver. 230520](https://github.com/dbsb-juntendo/descSPIM/blob/main/descSPIM-basic/descSPIM_opticalalignment_ver230520.pdf)**.
+**[opt. alignment manual ver. 230520](https://github.com/dbsb-juntendo/descSPIM/blob/main/descSPIM-basic/descSPIM_opticalalignment_ver230520.pdf?raw=true)**.
 
 ## Operation
 
 This section summarizes the operation of descSPIM. Please refer to the following PDF file Explanation MOVIE is also available.
 
-**[3D imaging manual ver. 230520](https://github.com/dbsb-juntendo/descSPIM/blob/main/descSPIM-basic/descSPIM_3Dimaging_ver230520.pdf)**.
+**[3D imaging manual ver. 230520](https://github.com/dbsb-juntendo/descSPIM/blob/main/descSPIM-basic/descSPIM_3Dimaging_ver230520.pdf?raw=true)**.
 
 (tutrial movie: coming soon)
 
