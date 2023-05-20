@@ -36,7 +36,7 @@ The 3D CAD of the finished drawing is in **[README.md.](https://github.com/dbsb-
 
 ### Parts list
 
-The parts list for descSPIM-basic can be downloaded **[here](https://github.com/dbsb-juntendo/descSPIM/blob/main/descSPIM_part_list_230502.xlsx)**.
+The parts list for descSPIM-basic can be downloaded **[here](https://github.com/dbsb-juntendo/descSPIM/blob/main/descSPIM-basic/descSPIM_part_list_230502.xlsx)**.
 
 You can order all the parts (except for laser) to [Thorlabs](https://www.thorlabs.com).
 
