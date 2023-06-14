@@ -45,10 +45,6 @@ In order to get the reference image, hogehoge... acquired using dye-solving solu
 
 Preparations:
 
--Install ImageMagick
-
--Install C3D
-
 How to use:
 Please follow the instructions in the code.
 
@@ -59,4 +55,4 @@ Please follow the instructions in the code.
 
 
 
-## 0-180 digree fusion by 3D slicer and Bigstitcher
+## 0-180 digree fusion with ANTs and Bigstitcher
