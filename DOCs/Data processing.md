@@ -38,21 +38,3 @@ In order to get the reference image, hogehoge... acquired using dye-solving solu
 
 ## Tiling light-sheet method: tiling x position finder (ImageJ macro)
 (coming soon)
-
-## Compile NIfTI file from TIF(TIFF) stacks: .ipynb file
-[Download here] 
-> :warning: **Note:** This code has been tested only on Ubuntu. While it may work on other operating systems, compatibility and functionality are not guaranteed.
-
-Preparations:
-
-How to use:
-Please follow the instructions in the code.
-
-
-
-## Stitching with Bigstitcher
-
-
-
-
-## 0-180 digree fusion with ANTs and Bigstitcher
