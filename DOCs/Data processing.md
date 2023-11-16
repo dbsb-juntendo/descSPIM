@@ -4,7 +4,7 @@ Copyright (c) 2023 Dept. Biochem. Systems Biomed, Juntendo Univ. Grad. Sch. Med.
 
 
 ## Flat-field correction (ImageJ macro)
-[Download here](https://github.com/dbsb-juntendo/descSPIM/blob/main/FlatfieldCorrection_IJmacro_ver230406.ijm)
+[Download here](https://github.com/dbsb-juntendo/descSPIM/blob/main/DOCs/codes/FlatfieldCorrection_IJmacro_ver230406.ijm)
 
 How to use:
 1. prepare a reference xy image(1) and a sample xyz stack(2). 
