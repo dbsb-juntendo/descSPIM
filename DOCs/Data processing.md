@@ -71,6 +71,10 @@ ANTs installation will take some time, but it took less than an hour in a usual 
 >Note that we only tested the code in a Linux (Ubuntu 20.04) environment.
 >Not tested on Windows (WSL2) and Mac.
 
+>[!NOTE]
+>If you use the full stack of the quarter mouse brain, of which the size is about 9GB, the entire registration and fusing process takes about 6 hours with our lab-equipped high-spec workstation (1 TB of RAM and 112 threads; see detail in this paper).  
+>It would be impossible to handle this full stack with a 'normal' computer; however, if testing with our test images, it will finish in a few hours, depending on the computational power.
+
 ## Registration quality check (optional)
 For a casual quality check of the registration, please find the code [here](https://github.com/dbsb-juntendo/descSPIM/blob/main/DOCs/codes/RegistrationAccuracy_qc_ZNCC_MI.ipynb).  
 We adopted two indicators: Zero-means normalized cross-correlation (ZNCC), and mutial information (MI). Both are pixel intensity based calculation, the values are standardized between zero and one, greater value means more image similarity.  
