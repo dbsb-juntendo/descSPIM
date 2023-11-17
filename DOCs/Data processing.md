@@ -65,9 +65,11 @@ This code enables:
 - Generate a final fused NIfTI stack
 
 The instructions for usage are all included in the code.  
+ANTs installation will take some time, but it took less than an hour in a usual network environment. Please find the minimum setup requirement at the [ANTS web site](https://github.com/ANTsX/ANTs). 
 
->[!NOTE]
->Note that we only tested the code in a Linux (Ubuntu 20.04) environment. 
+>[!CAUTION]
+>Note that we only tested the code in a Linux (Ubuntu 20.04) environment.
+>Not tested on Windows (WSL2) and Mac.
 
 ## Registration quality check (optional)
 For a casual quality check of the registration, please find the code [here](https://github.com/dbsb-juntendo/descSPIM/blob/main/DOCs/codes/RegistrationAccuracy_qc_ZNCC_MI.ipynb).  
