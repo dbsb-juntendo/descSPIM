@@ -7,11 +7,11 @@
 array = newArray("Right_001", "Right_002"); //"Left_002", "Left_001", "Left_000", "Right_000", "Right_001", "Right_002", from left to right
 z_range_of_reslice_image = "z00451-00550";
 
-start_slice = 840; // 計算する開始slice (5の倍数)
-end_slice = 1840; // 計算する最後のslice (5の倍数)
-start_x = 1440; // 計算するx範囲の開始点
-end_x = 1750; // 計算するx範囲の終了点
-no_of_slice = 5; //平均の計算に使用するスライスの枚数（default = 5）
+start_slice = 840; 
+end_slice = 1840; 
+start_x = 1440; 
+end_x = 1750; 
+no_of_slice = 5; 
 
 waitForUser("Delete rectangle?");
 
