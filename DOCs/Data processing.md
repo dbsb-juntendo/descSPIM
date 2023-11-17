@@ -24,7 +24,7 @@ The reference image can be acquired using dye-solving solution (e.g., 1 µM fluo
 ## Tiling light-sheet method: tiling x position finder (ImageJ macro)
 (coming soon)
 
-## Downsizing for downstream registration process
+## Compiling NIfTI files and downsizing
 In most cases, it is difficult to perform the downstream regisration process with the original full-resolution stack.
 For a quarter mouse brain, the image stack size for each channel is usually 5~10 GB.
 In order to reduce the computation, we strongly recommend downsizing.
