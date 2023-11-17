@@ -50,7 +50,9 @@ Add-on functions are developed to be compatible with the basic system.
 
 Add-ons: (under construction)
 
-Related codes can be available here: [Data processing](https://github.com/dbsb-juntendo/descSPIM/blob/main/DOCs/Data%20processing.md)
+Related codes can be found here:  
+[Data processing](https://github.com/dbsb-juntendo/descSPIM/blob/main/DOCs/Data%20processing.md)
+[Fluo-HE](https://github.com/dbsb-juntendo/descSPIM/blob/main/DOCs/Fluo-HE.md)
 
 ## 
 
