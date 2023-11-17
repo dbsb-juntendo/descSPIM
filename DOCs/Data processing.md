@@ -32,7 +32,8 @@ Following the coming two steps, the full-resolution NIfTi stack and the downsize
 * Note: We use ANTs software in the registration process; ANTs does accept TIF stacks, however, using NIfTI stacks will save time in most cases.
 * Obtaining a nuclear staining channel image is always the best practice. It can be used as a reference image for the registration and for clean 3D visualization as well.
 * We also prepared another convenient code that integrates NIfTI compilation, downsizing, registration, and fusing. [code](https://github.com/dbsb-juntendo/descSPIM/blob/main/DOCs/codes/descSPIM_NiftiRegFuse.ipynb)
-
+* For testing, please make use of these [test images](https://github.com/dbsb-juntendo/descSPIM/tree/main/DOCs/test_images)
+  
 Before performing:
 Please acquire two reciprocal image stacks. This is because the descSPIM-basic is one-directional illumination SPIM, which results in the image intensity degradation at the opposite side of the illumination direction. In order to complement this degradation, rotate the cuvvette (in which the sample is placed) 180° and obtain the images. Now the two complementary image stacks are prepared: angle 0° and angle 180°.
 
