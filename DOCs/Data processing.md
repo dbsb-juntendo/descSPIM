@@ -22,7 +22,11 @@ The reference image can be acquired using dye-solving solution (e.g., 1 µM fluo
 2. Run macro with ImageJ/Fiji.
 
 ## Tiling light-sheet method: tiling x position finder (ImageJ macro)
-(coming soon)
+In the FA (fine axial) mode, the effective FOV (field of view) is narrowed to about 889 μm in the original configuration. [Otomo et.al, bioRxiv, 2023](https://doi.org/10.1101/2023.05.02.539136)  
+In order to cover the larger FOV (e.g., a mouse whole brain), use these ImageJ macros.  
+[Macro_Border finder_ver1.1.ijm](https://github.com/dbsb-juntendo/descSPIM/blob/main/DOCs/codes/Macro_Border%20finder_ver1.1.ijm)  
+[Macro_z evaluate on reslice.ijm](https://github.com/dbsb-juntendo/descSPIM/blob/main/DOCs/codes/Macro_z%20evaluate%20on%20reslice.ijm)  
+[GEMINI_Data processing](https://github.com/dbsb-juntendo/descSPIM/blob/main/DOCs/codes/GEMINI_Data%20processing(Tiling%2Ccrop%2C8bit%2CRemoveOutsideParticle)_ver3.0.ijm)  
 
 ## Compiling NIfTI files and downsizing
 In most cases, it is difficult to perform the downstream regisration process with the original full-resolution stack.
