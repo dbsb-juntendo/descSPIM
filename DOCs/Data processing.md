@@ -49,7 +49,8 @@ After these two steps, four NIfTI stacks will be generated:
 - Angle 0°, full size
 - Angle 0°, downsized
 - Angle 180°, full size
-- Angle 180°, downsized  
+- Angle 180°, downsized
+
 In the next step, these four stacks are used to make a single complemented NIfTI stack.
 
 # Image registration, fusion: for a single tile with two channels
@@ -59,7 +60,8 @@ This code enables:
 - Compiling NIfTI stacks from the original TIF files
 - Registration of a reciprocal pair of stacks
 - Fusing the images
-- Generate a final fused NIfTI stack  
+- Generate a final fused NIfTI stack
+
 The instructions for usage are included in the code.
 
 
