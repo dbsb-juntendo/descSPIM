@@ -62,6 +62,6 @@ This code enables:
 - Fusing the images
 - Generate a final fused NIfTI stack
 
-The instructions for usage are all included in the code.
-
+The instructions for usage are all included in the code.  
+Note that we only tested the code in a Linux (Ubuntu 20.04) environment. 
 
