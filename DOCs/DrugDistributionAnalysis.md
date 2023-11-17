@@ -5,7 +5,7 @@ Analyze the drug distribution distance from the vascular edges.
 ## How to perform this analysis?
 1. Prepare the images
 Prepare the 3D stacks of images for the nuclear staining channel, the vascular staining channel (e.g. CD31, αSMA), and the target drug imaging channel.
-A sample image set can be distributed upon reasonable request. Please contact the [Lab head](suishess-kyu@umin.ac.jp).
+A sample image set can be distributed upon reasonable request. Please contact the Lab head (suishess-kyu@umin.ac.jp).
 
 2. Binarize
 Binarize the images of the vascular staining channel and the drug channel.
