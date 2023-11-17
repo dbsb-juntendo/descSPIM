@@ -28,7 +28,7 @@ In order to cover the larger FOV (e.g., a mouse whole brain), use these ImageJ m
 [Macro_z evaluate on reslice.ijm](https://github.com/dbsb-juntendo/descSPIM/blob/main/DOCs/codes/Macro_z%20evaluate%20on%20reslice.ijm)  
 [GEMINI_Data processing](https://github.com/dbsb-juntendo/descSPIM/blob/main/DOCs/codes/GEMINI_Data%20processing(Tiling%2Ccrop%2C8bit%2CRemoveOutsideParticle)_ver3.0.ijm)  
 
-## Compiling NIfTI files and downsizing
+## Compiling NIfTI files and downsizing (recommended)
 In most cases, it is difficult to perform the downstream regisration process with the original full-resolution stack.
 For a quarter mouse brain, the image stack size for each channel is usually 5~10 GB.
 In order to reduce the computation, we strongly recommend downsizing.
@@ -58,6 +58,7 @@ After these two steps, four NIfTI stacks will be generated:
 In the next step, these four stacks are used to make a single complemented NIfTI stack.
 
 # Image registration, fusion: for a single tile with two channels
+## Registraion and fusion
 Obtaining a complemented NIfTI stack for the nuclear staining channel and the target channel (e.g., Thy1-GFP).
 [Code](https://github.com/dbsb-juntendo/descSPIM/blob/main/DOCs/codes/descSPIM_NiftiRegFuse.ipynb)  
 This code enables:
@@ -68,4 +69,10 @@ This code enables:
 
 The instructions for usage are all included in the code.  
 Note that we only tested the code in a Linux (Ubuntu 20.04) environment. 
+
+## Registration quality check (optional)
+For a casual quality check of the registration, please find the code [here](https://github.com/dbsb-juntendo/descSPIM/blob/main/DOCs/codes/RegistrationAccuracy_qc_ZNCC_MI.ipynb).  
+We adopted two indicators: Zero-means normalized cross-correlation (ZNCC), and mutial information (MI). Both are pixel intensity based calculation, the values are standardized between zero and one, greater value means more image similarity.  
+* Note: Instructions are included in the code. Briefly, just set the paths of the image stacks you want to check, the compared figure will be saved to your designated directory.
+
 
