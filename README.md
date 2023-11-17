@@ -56,8 +56,8 @@ Related codes can be found here:
 - For drug distrubution analysis using trastuzumab-DyLightTM 650 -> [DrugDistributionAnalysis](https://github.com/dbsb-juntendo/descSPIM/blob/main/DOCs/DrugDistributionAnalysis.md)
 
 >[!NOTE]
->We only tested the codes python 3.9.16 on Ubuntu 20.04 environment. 
-
+>We only tested the codes python 3.9.16 on Ubuntu 20.04 environment.  
+>Registration was performed using ANTs software (v2.4.3.post10-g871cad0).
 ## 
 
 ## FAQ
