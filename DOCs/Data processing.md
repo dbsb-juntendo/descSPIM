@@ -36,15 +36,15 @@ Before performing:
 Please acquire two reciprocal image stacks. This is because the descSPIM-basic is one-directional illumination SPIM, which results in the image intensity degradation at the opposite side of the illumination direction. In order to complement this degradation, rotate the cuvvette (in which the sample is placed) 180° and obtain the images. Now the two complementary image stacks are prepared: angle 0° and angle 180°.
 
 How to use:
-1. Compile a fullsize NIfTI stack from the tiff images.
+1. Compile a fullsize NIfTI stack from the tiff images.  
    Please refer to this code.
    [Compile NIfTi](https://github.com/dbsb-juntendo/descSPIM/blob/main/DOCs/codes/Compile_nifti_fromTifStack.ipynb)
 
-2. Compile the downsized NIfTI stack
+2. Compile the downsized NIfTI stack  
    Please refer to this code.
    [Compile downsized NIfTI](https://github.com/dbsb-juntendo/descSPIM/blob/main/DOCs/codes/Compile_50%25nifti_fromTifStack.ipynb)
    
-After these two steps, four NIfTI stacks will be generated:
+After these two steps, four NIfTI stacks will be generated:  
 - Angle 0°, full size
 - Angle 0°, downsized
 - Angle 180°, full size
