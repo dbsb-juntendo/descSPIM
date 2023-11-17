@@ -65,6 +65,7 @@ This code enables:
 - Generate a final fused NIfTI stack
 
 The instructions for usage are all included in the code.  
+
 **Note**
 Note that we only tested the code in a Linux (Ubuntu 20.04) environment. 
 
