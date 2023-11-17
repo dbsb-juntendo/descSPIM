@@ -66,8 +66,8 @@ This code enables:
 
 The instructions for usage are all included in the code.  
 
-**Note**
-Note that we only tested the code in a Linux (Ubuntu 20.04) environment. 
+>[!NOTE]
+>Note that we only tested the code in a Linux (Ubuntu 20.04) environment. 
 
 ## Registration quality check (optional)
 For a casual quality check of the registration, please find the code [here](https://github.com/dbsb-juntendo/descSPIM/blob/main/DOCs/codes/RegistrationAccuracy_qc_ZNCC_MI.ipynb).  
