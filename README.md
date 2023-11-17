@@ -51,8 +51,8 @@ Add-on functions are developed to be compatible with the basic system.
 Add-ons: (under construction)
 
 Related codes can be found here:  
-For general data processing -> [Data processing](https://github.com/dbsb-juntendo/descSPIM/blob/main/DOCs/Data%20processing.md)  
-For false colored HE (hematoxylin & eosin) 3D converting -> [Fluo-HE](https://github.com/dbsb-juntendo/descSPIM/blob/main/DOCs/Fluo-HE.md)
+- For general data processing -> [Data processing](https://github.com/dbsb-juntendo/descSPIM/blob/main/DOCs/Data%20processing.md)  
+- For false colored HE (hematoxylin & eosin) 3D converting -> [Fluo-HE](https://github.com/dbsb-juntendo/descSPIM/blob/main/DOCs/Fluo-HE.md)
 
 ## 
 
