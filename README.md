@@ -55,6 +55,9 @@ Related codes can be found here:
 - For false colored HE (hematoxylin & eosin) 3D converting -> [Fluo-HE](https://github.com/dbsb-juntendo/descSPIM/blob/main/DOCs/Fluo-HE.md)
 - For drug distrubution analysis using trastuzumab-DyLightTM 650 -> [DrugDistributionAnalysis](https://github.com/dbsb-juntendo/descSPIM/blob/main/DOCs/DrugDistributionAnalysis.md)
 
+>[!NOTE]
+>We only tested the codes python 3.9.16 on Ubuntu 20.04 environment. 
+
 ## 
 
 ## FAQ
