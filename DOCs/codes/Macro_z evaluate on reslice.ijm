@@ -1,7 +1,7 @@
 //user defined parameter
 //filename = "Image_Z_00000_Left_000.tiff"; //set the name of 1st image in the folder
 array = newArray("Left_000", "Left_001", "Left_002", "Right_000", "Right_001", "Right_002"); //"Left_000", "Left_001", "Left_002", "Right_000", "Right_001", "Right_002"
-start_z = 451; //z stackのどこから使うか？
+start_z = 451; 
 
 //auto parameter
 end_z = start_z + 99;
