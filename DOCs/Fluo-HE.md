@@ -1,5 +1,5 @@
 # Fluo-HE
-![Example processed image](https://github.com/dbsb-juntendo/descSPIM/releases/download/v1.0.0/Resized_Fluo-HE.png)
+![Example processed image](https://github.com/dbsb-juntendo/descSPIM/releases/download/v1.0.0/Rotated_Resized_Fluo-HE.png)
 
 ## What is Fluo-HE ?
 To demonstrate the adoption of recent 3D pathology trends with clearing and light-sheet microscopy imaging, we also obtained a 3D image of a 2 mm-thick CDX section with FA mode and TLS. The sample was stained with NHS-Alexa FluorⓇ 647 and PI in order to convert the acquired fluorescent images into a false-colored to mimic the pink and purple appearance of standard hematoxylin-eosin volume image (Fluo-HE).  
