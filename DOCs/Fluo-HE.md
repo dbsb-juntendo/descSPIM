@@ -1,7 +1,7 @@
 # Fluo-HE
 ## What is Fluo-HE ?
 To demonstrate the adoption of recent 3D pathology trends with clearing and light-sheet microscopy imaging, we also obtained a 3D image of a 2 mm-thick CDX section with FA mode and TLS. The sample was stained with NHS-Alexa FluorⓇ 647 and PI in order to convert the acquired fluorescent images into a false-colored to mimic the pink and purple appearance of standard hematoxylin-eosin volume image (Fluo-HE).  
-The code used is based on [Serafin, R., Xie, W., Glaser, A. K., & Liu, J. (2020). FalseColor-Python: A rapid intensity-leveling and digital-staining package for fluorescence-based slide-free digital pathology. PLOS ONE](https://doi.org/10.1371/journal.pone.0233198)
+The code used is based on [Serafin et al., PLOS ONE, 2020](https://doi.org/10.1371/journal.pone.0233198)
 
 ## Pre-process
 1. Dataset
