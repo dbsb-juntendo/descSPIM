@@ -51,8 +51,8 @@ Add-on functions are developed to be compatible with the basic system.
 Add-ons: (under construction)
 
 Related codes can be found here:  
-[Data processing](https://github.com/dbsb-juntendo/descSPIM/blob/main/DOCs/Data%20processing.md)
-[Fluo-HE](https://github.com/dbsb-juntendo/descSPIM/blob/main/DOCs/Fluo-HE.md)
+For general data processing -> [Data processing](https://github.com/dbsb-juntendo/descSPIM/blob/main/DOCs/Data%20processing.md)  
+For false colored HE (hematoxylin & eosin) 3D converting -> [Fluo-HE](https://github.com/dbsb-juntendo/descSPIM/blob/main/DOCs/Fluo-HE.md)
 
 ## 
 
@@ -95,4 +95,5 @@ By using descSPIM, you agree to abide by these terms and conditions:
 - [Matsumoto et al. Advanced CUBIC tissue clearing for whole-organ cell profiling. Nat Protoc 14, 3506–3537 (2019)](https://doi.org/10.1038/s41596-019-0240-9)
 
 - [CUBIC resource website](http://cubic.riken.jp)
+
 
