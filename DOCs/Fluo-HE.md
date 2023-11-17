@@ -14,7 +14,7 @@ Make sure that the nuclear and cytoplasmic channels are correctly set.
 Find the code [here](https://github.com/dbsb-juntendo/descSPIM/blob/main/DOCs/codes/DBSB_Fluo-HE.ipynb). All the necessary instructions are in it.  
 You can change the coloring pattern as you like. Find the best parameters setting to meet your experimental design.
 
-
+![Fluo-HE example](https://github.com/dbsb-juntendo/descSPIM/releases/download/v1.0.0/Fluo-HE.tif)
 
 
 
