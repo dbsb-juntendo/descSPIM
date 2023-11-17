@@ -73,6 +73,7 @@ Note that we only tested the code in a Linux (Ubuntu 20.04) environment.
 ## Registration quality check (optional)
 For a casual quality check of the registration, please find the code [here](https://github.com/dbsb-juntendo/descSPIM/blob/main/DOCs/codes/RegistrationAccuracy_qc_ZNCC_MI.ipynb).  
 We adopted two indicators: Zero-means normalized cross-correlation (ZNCC), and mutial information (MI). Both are pixel intensity based calculation, the values are standardized between zero and one, greater value means more image similarity.  
-* Note: Instructions are included in the code.  Briefly, just set the paths of the image stacks you want to check, the compared figure will be saved to your designated directory.
+* Note: Instructions are included in the code.
+  Briefly, just set the paths of the image stacks you want to check, the compared figure will be saved to your designated directory.
 
 
