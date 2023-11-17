@@ -1,8 +1,3 @@
-## LICENSE ##
-MIT License
-Copyright (c) 2023 Dept. Biochem. Systems Biomed, Juntendo Univ. Grad. Sch. Med.
-
-
 # Image pre-processing
 ## Flat-field correction (ImageJ macro)
 [Download here](https://github.com/dbsb-juntendo/descSPIM/blob/main/DOCs/codes/FlatfieldCorrection_IJmacro_ver230406.ijm)
