@@ -12,7 +12,7 @@ Make sure that the nuclear and cytoplasmic channels are correctly set.
 
 ## False coloring
 Find the code [here](https://github.com/dbsb-juntendo/descSPIM/blob/main/DOCs/codes/DBSB_Fluo-HE.ipynb). All the necessary instructions are in it.  
-You can change the coloring pattern as you like. Find the best set of parameters to meet your experimental design.
+You can change the coloring pattern as you like. Find the best parameters setting to meet your experimental design.
 
 
 
