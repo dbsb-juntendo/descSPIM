@@ -23,6 +23,7 @@ In order to cover the larger FOV (e.g., a mouse whole brain), use these ImageJ m
 [Macro_Border finder_ver1.1.ijm](https://github.com/dbsb-juntendo/descSPIM/blob/main/DOCs/codes/Macro_Border%20finder_ver1.1.ijm)  
 [Macro_z evaluate on reslice.ijm](https://github.com/dbsb-juntendo/descSPIM/blob/main/DOCs/codes/Macro_z%20evaluate%20on%20reslice.ijm)  
 [GEMINI_Data processing](https://github.com/dbsb-juntendo/descSPIM/blob/main/DOCs/codes/GEMINI_Data%20processing(Tiling%2Ccrop%2C8bit%2CRemoveOutsideParticle)_ver3.0.ijm)  
+Test data: [test0](https://github.com/dbsb-juntendo/descSPIM/releases/download/v1.0.1/Left_000.tif) [test1](https://github.com/dbsb-juntendo/descSPIM/releases/download/v1.0.1/Left_001.tif)
 
 ## Compiling NIfTI files and downsizing (recommended)
 In most cases, it is difficult to perform the downstream regisration process with the original full-resolution stack.
